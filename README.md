@@ -1,2 +1,2 @@
 #Hangman
-The Text-based game written in Python
+A text-based game written in Python
